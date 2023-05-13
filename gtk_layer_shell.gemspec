@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.author   = "Michael Swiger"
   s.email    = "michael@swiger.dev"
   s.files    = Dir["LICENSE", "README.md", "lib/**/*"]
-  s.homepage = "https://github.com/mswiger/ruby-gtk3-layer-shell"
+  s.homepage = "https://github.com/mswiger/ruby-gtk-layer-shell"
 
   s.required_ruby_version = ">= 3.0"
 end
